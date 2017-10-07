@@ -27,5 +27,8 @@ code for Genetic Algorithm applied to a maze solved by A* with Manhattan Distanc
 generate_maze.py
 code to generate the first maze observed as hard to solve by the DFS algorithm
 
+AI_Assignment1.pdf
+an indepth explanation of the working and objectives achieved by the above programs
+
 
 
