@@ -1,5 +1,7 @@
 # MazeSolver
 
+Python Implementation:
+
 solve_maze.py:
 Code for implementation and analysis of algorithms (BFS, DFS and A*) - Part 1 
 
